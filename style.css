@@ -3,10 +3,14 @@
 	padding: 16px;
 }
 
-.Navbar__Items {
+.Navbar__Items{
 	display: flex;
 }
 
 .Navbar__Link {
     padding-right: 8px;
+}
+
+.Navbar__Items--right {
+	margin-left:auto;
 }
