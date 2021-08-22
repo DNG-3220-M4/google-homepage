@@ -1,0 +1,12 @@
+.Navbar {
+	display: flex;
+	padding: 16px;
+}
+
+.Navbar__Items {
+	display: flex;
+}
+
+.Navbar__Link {
+    padding-right: 8px;
+}
