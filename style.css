@@ -1,10 +1,14 @@
 .Navbar {
 	display: flex;
 	padding: 16px;
+	font-family: Sans-Serif;
+	color: black;
 }
 
 .Navbar__Items{
 	display: flex;
+	font-family: sans-serif;
+	padding: 16px;
 }
 
 .Navbar__Link {
